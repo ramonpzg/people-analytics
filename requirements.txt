@@ -5,3 +5,6 @@ statsmodels
 matplotlib
 linearmodels
 scikit-learn
+spacy
+gensim
+python -m spacy download en_core_web_sm
