@@ -1,5 +1,16 @@
 theme: jekyll-theme-architect
+  
+  
+markdown: kramdown
 
+plugins:
+  - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
+  
+name: Welcome to People Analytics at London Business School
+title: People Analytics
+
+# github:
+#   is_project_page: false
