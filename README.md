@@ -50,10 +50,12 @@ This lesson covers Panel Data in Python. Panel Data is a blend of Time Series an
 
 ### Lesson 3 - Lasso Regression
 
-
+Lasso regression is a regression model with a penalty applied to the coefficients of your independent variables if these coefficients don't contribute much to the model. This is a regularization method where the a coefficient that has been penalized by the model gets turned immediately into 0. 
 
 ### Lesson 4 - NLP and Topic Modeling
 
-
+This lesson covers a short introduction to Natural Language Processing and one of the many techniques within it, Topic Modeling.
 
 ### Lesson 5 - Network Analysis
+
+In this lesson, you will learn about the different applications of Network Analysis, and, more specifically, you will learn three modeling techniques that will help you spot important personel within an organization.
