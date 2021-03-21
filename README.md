@@ -4,26 +4,27 @@
 
 Welcome to the course, People Analytics. Where you will learn about how to harness the power of prediction to make decisions backed by data about the most important capital asset an organization can have, its employees.
 
-## Table of Contents
+## Content
 
 1. Background
 2. Using this course
-3. Notebooks
-4. Data
+3. [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
 
 
-## Background
+## 1. Background
 
 This course was first taught at London Business School from January to March 2021. Main lessons were taught by Professor Isabel Fernandez-Mateo, and Ramon Perez provided the statistical programming sessions contained in the notebooks you are about to use.
 
-## Using this course
+## 2. Using this course
 There are two ways in which you can do this course:
-1. Without installing anything in your computer and just following the following link which will take you directly to an isolated environment on the internet where you can code away. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonprz01/people-analytics/master)
+1. Without installing anything in your computer and just following the link below. It will take you directly to an isolated environment on the internet where you can go over the lesson on your own in a new tab on your browser.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonprz01/people-analytics/master)
 
 2. By following the installation steps available in the folder called [setup](https://ramonprz01.github.io/people-analytics/setup/).
 
 
-## [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
+## 3. [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
 
 The [notebooks](https://ramonprz01.github.io/people-analytics/notebooks/) folder contains all of the lessons for the course as jupyter notebooks.
 

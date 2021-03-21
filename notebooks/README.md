@@ -8,23 +8,39 @@
 
 Here is what you will learn in each of the lessons in this course.
 
-### Lesson 1 - Intro to Python
+### Lesson 0 - Intro to Python
+
+[View and Download Lesson 1](https://nbviewer.jupyter.org/github/ramonprz01/people-analytics/blob/master/notebooks/00_intro_python.ipynb)
 
 This is an optional, short introduction to Python.
 
-### Lesson 2 - Regression Analysis
+### Lesson 1 - Regression Analysis
+
+[View and Download Lesson 2](https://nbviewer.jupyter.org/github/ramonprz01/people-analytics/blob/master/notebooks/01_hiring_analysis.ipynb)
 
 
-### Lesson 3 - Panel Data Analysis
+### Lesson 2 - Panel Data Analysis
+
+[View and Download Lesson 3]()
 
 
-### Lesson 3.5 - Logistic Regression
+### Lesson 2.5 - Logistic Regression
+
+[View and Download Lesson 3.5]()
 
 
-### Lesson 4 - Lasso Regression
+### Lesson 3 - Lasso Regression
+
+[View and Download Lesson 4]()
 
 
-### Lesson 5 - NLP and Topic Modeling
+### Lesson 4 - NLP and Topic Modeling
+
+[View and Download Lesson 5]()
 
 
-### Lesson 7 - Network Analysis
+### Lesson 5 - Network Analysis
+
+[View and Download Lesson 6]()
+
+
