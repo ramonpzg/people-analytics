@@ -9,10 +9,10 @@ Anaconda is a for-profit organization that has democratized the use of open-sour
 
 Next, we will download and install Anaconda
 
-1. Navigate to the individual edition page of [Anaconda](https://www.anaconda.com/products/individual). ![individual](images/anaconda_indiv.png)
+1. Navigate to the individual edition page of [Anaconda](https://www.anaconda.com/products/individual). ![individual](../images/anaconda_indiv.png)
 
-2. Scroll all the way down and select the appropriate distribution for your Operating System. ![ana_download](images/ana_download.png)
-3. After downloading the installer, open it and follow the instructions while making sure, when prompted, to add Anaconda to path. After installation, you can look for the Anaconda-Navigator to launch JupyterLab. This will immediately open a new tab in your browser.![Anaconda Launch](/Users/ramonperez/Tresors/CoderAcademy/bootcamp_da/term_1/0_setup/images/anaconda-launch.png)
+2. Scroll all the way down and select the appropriate distribution for your Operating System. ![ana_download](../images/ana_download.png)
+3. After downloading the installer, open it and follow the instructions while making sure, when prompted, to add Anaconda to path. After installation, you can look for the Anaconda-Navigator to launch JupyterLab. This will immediately open a new tab in your browser.![Anaconda Launch](../images/anaconda-launch.png)
 
 Once you check that JupyterLab opens fine and that everything is running correctly, you can close the tab and then Anaconda.
 

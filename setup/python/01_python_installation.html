@@ -1,6 +1,6 @@
 # Python Installation
 
-![Python](images/python_im.png)
+![Python](../images/python_im.png)
 
 Python is a high-level programming language that is  widely used for software and web development, scripting, data analytics, reasearch, and scientific programming. To download and install the latest version of Python onto your computer, please follow the steps below for your respective operating system.
 
@@ -8,12 +8,12 @@ Python is a high-level programming language that is  widely used for software an
 Download Python from the from the Python website & Install it in your machine.
 
 1. Open a web browser and go to the [Python downloads page][python-download]. 
-![python_downl](images/python_downloads.png)
+![python_downl](../images/python_downloads.png)
 
 2. Click on the link/button to download Python 3.9 or later. 
-![python_downl](images/click_download.png)
+![python_downl](../images/click_download.png)
 
-3. Once dowloaded, open the **.pkg** installer in your Downloads folder and follow the installation instructions (we recommend to leave all of the default settings as they are). Enter your password if prompted.![Mac Installer](images/mac-python-install.png)
+3. Once dowloaded, open the **.pkg** installer in your Downloads folder and follow the installation instructions (we recommend to leave all of the default settings as they are). Enter your password if prompted.![Mac Installer](../images/mac-python-install.png)
 
 After the installation is finished, open the Terminal application of macOS. You can press `Command + Space Bar`, this will open up the **Spotlight Search Bar** and you will then type the word _terminal_ and press `enter/return` when the application pops up. You can also go to `Application` → `Utilities` and search for the terminal. A bash terminal will open where you can enter commands and do cool things in your computer.
 
@@ -31,7 +31,7 @@ python3
 
 You should see the Python version you have installed (i.e. 3.x), and you can now run Python code using your terminal. Print “Hello world” using the print command. Type `print("Hello World!")`
 
-![Mac Terminal](images/mac-terminal.png)
+![Mac Terminal](../images/mac-terminal.png)
 
 You can type `exit()` in your terminal to exit out of Python and then close the terminal window.
 
@@ -61,17 +61,17 @@ If you close that terminal and then open a new one, you can now use the “pytho
 
 Download Python from the from the Python website & Install it in your machine.
 
-1. Open a web browser and go to the [Python downloads page for Windows][windows-install]. Underneath the Python Releases for Windows find Latest Python 3 Release – Python 3.8.x (latest stable release at the time of writing, is Python 3.9.2):![Windows Python releases](images/py_wind.png)
+1. Open a web browser and go to the [Python downloads page for Windows][windows-install]. Underneath the Python Releases for Windows find Latest Python 3 Release – Python 3.8.x (latest stable release at the time of writing, is Python 3.9.2):![Windows Python releases](../images/py_wind.png)
 
-2. Click on the latest stable release near the top of the page. Then on the release page, scroll down to Files and click on Windows x86-64 executable installer for 64-bit or Windows x86 executable installer for 32-bit. If you are unsure about your operating system, please check before downloading a version of Python.![Windows Python bit installers](images/windows-python-bit-installers.png)
+2. Click on the latest stable release near the top of the page. Then on the release page, scroll down to Files and click on Windows x86-64 executable installer for 64-bit or Windows x86 executable installer for 32-bit. If you are unsure about your operating system, please check before downloading a version of Python.![Windows Python bit installers](../images/windows-python-bit-installers.png)
 
-3. Once dowloaded, open the **.exe** installer in your Downloads folder and follow the installation instructions. Make sure to check “Add Python 3.x to PATH” or otherwise you will have to do it explicitly. Click “Install Now” and after doing so, it will start installing Python on Windows.![Windows install screen](images/windows-install-screen.png)
+3. Once dowloaded, open the **.exe** installer in your Downloads folder and follow the installation instructions. Make sure to check “Add Python 3.x to PATH” or otherwise you will have to do it explicitly. Click “Install Now” and after doing so, it will start installing Python on Windows.![Windows install screen](../images/windows-install-screen.png)
 
-4. After the installation is complete, click **Close**. The latest version of Python should now be installed. ![Windows install complete](images/windows-install-complete.png)
+4. After the installation is complete, click **Close**. The latest version of Python should now be installed. ![Windows install complete](../images/windows-install-complete.png)
 
 You can use the Command Prompt in Windows to invoke Python. Go to the start menu and open the Command Prompt application. Type _python_ in the command prompt to confirm that it was installed correctly. Then try entering the command to `print(“Hello World!”)` to run your first line of code.
 
-![Windows Commnand Prompt](images/windows-command-prompt.png)
+![Windows Commnand Prompt](../images/windows-command-prompt.png)
 
 ## **[Linux][linux-install-ref]**
 
@@ -130,7 +130,7 @@ Then you will press the Escape buttom in your keyboard, the type `:wq` and then 
 
 Type `python` in your terminal and then `print(“Hello world”)`.
 
-![Linux Terminal](images/linux-terminal.png)
+![Linux Terminal](../images/linux-terminal.png)
 
 
 
