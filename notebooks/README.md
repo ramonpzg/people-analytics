@@ -8,7 +8,7 @@
 
 Here is what you will learn in each of the lessons in this course.
 
-### Lesson 0 - Intro to Python
+### Lesson 0 - Introduction to Python
 
 [View and Download Lesson 1](https://nbviewer.jupyter.org/github/ramonprz01/people-analytics/blob/master/notebooks/00_intro_python.ipynb)
 

@@ -26,26 +26,34 @@ There are two ways in which you can do this course:
 
 ## 3. [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
 
-The [notebooks](https://ramonprz01.github.io/people-analytics/notebooks/) folder contains all of the lessons for the course as jupyter notebooks.
+The [notebooks](https://ramonprz01.github.io/people-analytics/notebooks/) folder contains all of the lessons for the course as jupyter notebooks. By clicking on the `View and Download Lesson X` button you will be taken to a static version of such notebook. Once there, you can click on the upper right-hand corner button to download that notebook. In addition, you can click on the 3 circles icon and that will take you to a Binder version of the notebook where you can run the code in that notebook freely.
 
 Here is what you will learn in each of the lessons in this course.
 
-### Lesson 1 - Intro to Python
+### Lesson 0 - Introduction to Python
+
+If this is your first time using Python, you will benefit from going through this lesson. Not only will you learn some of the basics of Python but you will also go through a few of the key pieces of the data analytics cylce while creating some compelling visualizations.
+
+### Lesson 1 - Regression Analysis
+
+In this lesson, you will learn about regression analysis, more specifically, what it is and how do we run a regression in Python.
 
 
-### Lesson 2 - Regression Analysis
+### Lesson 2 - Panel Data Analysis
+
+This lesson covers Panel Data in Python. Panel Data is a blend of Time Series and Cross-Sectional Analysis, this means that it deals with data at different time intervals but with some consistency and following the same sample.
 
 
-### Lesson 3 - Panel Data Analysis
+### Lesson 2.5 - Logistic Regression (Optional)
 
 
-### Lesson 3.5 - Logistic Regression
+
+### Lesson 3 - Lasso Regression
 
 
-### Lesson 4 - Lasso Regression
+
+### Lesson 4 - NLP and Topic Modeling
 
 
-### Lesson 5 - NLP and Topic Modeling
 
-
-### Lesson 7 - Network Analysis
+### Lesson 5 - Network Analysis
