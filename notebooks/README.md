@@ -5,6 +5,7 @@
 
 [nbviewer](https://nbviewer.jupyter.org/github/ramonprz01/people-analytics/tree/master/notebooks/)
 
+
 Here is what you will learn in each of the lessons in this course.
 
 ### Lesson 1 - Intro to Python

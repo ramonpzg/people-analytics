@@ -7,10 +7,14 @@ Welcome to the course, People Analytics. Where you will learn about how to harne
 ## Table of Contents
 
 1. Background
-2. How to do this course
+2. Using this course
 3. Notebooks
 4. Data
 
+
+## Background
+
+This course was first taught at London Business School from January to March 2021. Main lessons were taught by Professor Isabel Fernandez-Mateo, and Ramon Perez provided the statistical programming sessions contained in the notebooks you are about to use.
 
 ## Using this course
 There are two ways in which you can do this course:
