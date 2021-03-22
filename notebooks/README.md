@@ -50,5 +50,12 @@ In this lesson, you will learn about the different applications of Network Analy
 
 ## The Data
 
+To download the datasets below, right-click on them and select the option _"Save Link As..."_. Change the extension from `.txt` to `.csv`, and click on save. Once you download the data, make sure you put all of the files inside a folder called `data`, inside the folder containing all of your notebooks.
 
-[Hyp_attrition_bigdata.csv](https://raw.githubusercontent.com/ramonprz01/people-analytics/master/notebooks/data/Hyp_attrition_bigdata.csv)
+- [workouts_data.csv](https://raw.githubusercontent.com/ramonprz01/people-analytics/master/notebooks/data/workouts_data.csv)
+- [Hyp_employees.csv](https://raw.githubusercontent.com/ramonprz01/people-analytics/master/notebooks/data/Hyp_employees.csv)
+- [Hyp_panelperformance.csv](https://raw.githubusercontent.com/ramonprz01/people-analytics/master/notebooks/data/Hyp_panelperformance.csv)
+- [Hyp_attrition_bigdata.csv](https://raw.githubusercontent.com/ramonprz01/people-analytics/master/notebooks/data/Hyp_attrition_bigdata.csv)
+- [netflix.csv](https://raw.githubusercontent.com/ramonprz01/people-analytics/master/notebooks/data/netflix.csv)
+- [clean_gs.csv](https://raw.githubusercontent.com/ramonprz01/people-analytics/master/notebooks/data/clean_gs.csv)
+- [Edgelist_Hypatia.csv](https://raw.githubusercontent.com/ramonprz01/people-analytics/master/notebooks/data/Edgelist_Hypatia.csv)
