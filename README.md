@@ -60,3 +60,6 @@ This lesson covers a short introduction to Natural Language Processing and one o
 ### Lesson 5 - Network Analysis
 
 In this lesson, you will learn about the different applications of Network Analysis, and, more specifically, you will learn three modeling techniques that will help you spot important personel within an organization.
+
+
+Downloading Everything (Including the Data)
