@@ -4,10 +4,15 @@
 
 Welcome to the course, People Analytics. Where you will learn about how to harness the power of prediction to make decisions backed by data about the most important capital asset an organization can have, its employees.
 
+## Navigation
+
+- [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
+- [Setup](https://ramonprz01.github.io/people-analytics/setup/)
+
 ## Content
 
 1. Background
-2. Using this course
+2. How to do this course
 3. [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
 
 
@@ -15,7 +20,7 @@ Welcome to the course, People Analytics. Where you will learn about how to harne
 
 This course was first taught at London Business School from January to March 2021. Main lessons were taught by Professor Isabel Fernandez-Mateo, and Ramon Perez provided the statistical programming sessions contained in the notebooks you are about to use.
 
-## 2. Using this course
+## 2. How to do this course
 There are two ways in which you can do this course:
 1. Without installing anything in your computer and just following the link below. It will take you directly to an isolated environment on the internet where you can go over the lesson on your own in a new tab on your browser.
 
