@@ -41,7 +41,7 @@ If this is your first time using Python, you will benefit from going through thi
 
 ### Lesson 1 - Regression Analysis
 
-In this lesson, you will learn about regression analysis, more specifically, what it is and how do we run a regression in Python.
+In this lesson, you will learn about regression analysis and, more specifically, what it is and how do we run a regression in Python.
 
 
 ### Lesson 2 - Panel Data Analysis
@@ -49,13 +49,9 @@ In this lesson, you will learn about regression analysis, more specifically, wha
 This lesson covers Panel Data in Python. Panel Data is a blend of Time Series and Cross-Sectional Analysis, this means that it deals with data at different time intervals but with some consistency and following the same sample.
 
 
-### Lesson 2.5 - Logistic Regression (Optional)
-
-
-
 ### Lesson 3 - Lasso Regression
 
-Lasso regression is a regression model with a penalty applied to the coefficients of your independent variables if these coefficients don't contribute much to the model. This is a regularization method where the a coefficient that has been penalized by the model gets turned immediately into 0. 
+Lasso regression is a regression model with a penalty applied to the coefficients of your independent variables, if these coefficients don't contribute much to the model. This is a regularization method where the coefficient that has been penalized by the model gets turned immediately into 0. 
 
 ### Lesson 4 - NLP and Topic Modeling
 
