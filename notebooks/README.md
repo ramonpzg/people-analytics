@@ -50,3 +50,5 @@ In this lesson, you will learn about the different applications of Network Analy
 
 ## The Data
 
+
+[Hyp_attrition_bigdata.csv](https://raw.githubusercontent.com/ramonprz01/people-analytics/master/notebooks/data/Hyp_attrition_bigdata.csv)
