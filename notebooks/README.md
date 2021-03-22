@@ -1,6 +1,7 @@
 # Lessons
 
-![graph](https://cdn.dribbble.com/users/477862/screenshots/3289260/player-piano5.gif)
+![graph](https://cdn.dribbble.com/users/477862/screenshots/3289260/player-piano5.gif)  
+Source: [Stephanie Hagadorn](https://dribbble.com/shots/3289260-High-Low-Graph)
 
 
 You can access, view and download all lesson notebooks using the following link or go to each individual one using the links below.

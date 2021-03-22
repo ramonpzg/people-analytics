@@ -1,6 +1,6 @@
 # People Analytics
 
-
+![cool_image](https://cdn.dribbble.com/users/14356/screenshots/1215165/infographic-dribble.gif)
 
 Welcome to the course, People Analytics. Where you will learn about how to harness the power of prediction to make decisions backed by data about the most important capital asset an organization can have, its employees.
 
@@ -62,4 +62,10 @@ This lesson covers a short introduction to Natural Language Processing and one o
 In this lesson, you will learn about the different applications of Network Analysis, and, more specifically, you will learn three modeling techniques that will help you spot important personel within an organization.
 
 
-Downloading Everything (Including the Data)
+## Downloading Everything (Including the Data)
+
+
+Download the repo using the big green button on the upper right of the repository for this course, which can be found [here](https://github.com/ramonprz01/people-analytics). See below.
+
+![green button](images/repo.png)
+
