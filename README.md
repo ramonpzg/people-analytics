@@ -2,7 +2,7 @@
 
 ![cool_image](https://cdn.dribbble.com/users/14356/screenshots/1215165/infographic-dribble.gif)
 
-Welcome to the course, People Analytics. Where you will learn about how to harness the power of prediction to make decisions backed by data about the most important capital asset an organization can have, its employees.
+Welcome to the People Analytics, where you will learn about how to harness the power of prediction to make decisions backed by data about the most important capital asset an organization can have, its employees. Throughout this course, you will go from running some of the most widely used statistical modeling techniques to creating machine learning models, and detecting the most highly connected employees within an organization through a network analysis.
 
 ## Navigation
 
