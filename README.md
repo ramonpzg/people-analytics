@@ -68,8 +68,3 @@ In this lesson, you will learn about the different applications of Network Analy
 Download the repo using the big green button on the upper right of the repository for this course, which can be found [here](https://github.com/ramonprz01/people-analytics). See below.
 
 ![green button](images/repo.png)
-
-
-
-
-[link to private repo](https://github.com/ramonprz01/course-testing)
