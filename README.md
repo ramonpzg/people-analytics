@@ -31,7 +31,7 @@ There are two ways in which you can do this course:
 
 ## 3. [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
 
-The [notebooks](https://ramonprz01.github.io/people-analytics/notebooks/) folder contains all of the lessons for the course as jupyter notebooks. By clicking on the `View and Download Lesson X` button you will be taken to a static version of such notebook. Once there, you can click on the upper right-hand corner button to download that notebook. In addition, you can click on the 3 circles icon and that will take you to a Binder version of the notebook where you can run the code in that notebook freely.
+The [notebooks](https://ramonprz01.github.io/people-analytics/notebooks/) folder contains all of the lessons for the course as jupyter notebooks. By clicking on the `View and Download Lesson X` button you will be taken to a static version of such notebook. Once there, you can click on the upper right-hand corner button to download that notebook. In addition, you can click on the 3 circles icon and that will take you to a Binder version of the notebook where you can run and play with the code of that lesson as much as you'd like.
 
 Here is what you will learn in each of the lessons in this course.
 
@@ -69,3 +69,7 @@ Download the repo using the big green button on the upper right of the repositor
 
 ![green button](images/repo.png)
 
+
+
+
+[link to private repo](https://github.com/ramonprz01/course-testing)
