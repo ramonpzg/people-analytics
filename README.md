@@ -6,14 +6,14 @@ Welcome to the People Analytics, where you will learn about how to harness the p
 
 ## Navigation
 
-- [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
-- [Setup](https://ramonprz01.github.io/people-analytics/setup/)
+- [Notebooks](https://ramonpzg.github.io/people-analytics/notebooks/)
+- [Setup](https://ramonpzg.github.io/people-analytics/setup/)
 
 ## Content
 
 1. Background
 2. How to do this course
-3. [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
+3. [Notebooks](https://ramonpzg.github.io/people-analytics/notebooks/)
 
 
 ## 1. Background
@@ -26,12 +26,12 @@ There are two ways in which you can do this course:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonprz01/people-analytics/master)
 
-2. By following the installation steps available in the folder called [setup](https://ramonprz01.github.io/people-analytics/setup/).
+2. By following the installation steps available in the folder called [setup](https://ramonpzg.github.io/people-analytics/setup/).
 
 
-## 3. [Notebooks](https://ramonprz01.github.io/people-analytics/notebooks/)
+## 3. [Notebooks](https://ramonpzg.github.io/people-analytics/notebooks/)
 
-The [notebooks](https://ramonprz01.github.io/people-analytics/notebooks/) folder contains all of the lessons for the course as jupyter notebooks. By clicking on the `View and Download Lesson X` button you will be taken to a static version of such notebook. Once there, you can click on the upper right-hand corner button to download that notebook. In addition, you can click on the 3 circles icon and that will take you to a Binder version of the notebook where you can run and play with the code of that lesson as much as you'd like.
+The [notebooks](https://ramonpzg.github.io/people-analytics/notebooks/) folder contains all of the lessons for the course as jupyter notebooks. By clicking on the `View and Download Lesson X` button you will be taken to a static version of such notebook. Once there, you can click on the upper right-hand corner button to download that notebook. In addition, you can click on the 3 circles icon and that will take you to a Binder version of the notebook where you can run and play with the code of that lesson as much as you'd like.
 
 Here is what you will learn in each of the lessons in this course.
 
@@ -65,6 +65,6 @@ In this lesson, you will learn about the different applications of Network Analy
 ## Downloading Everything (Including the Data)
 
 
-Download the repo using the big green button on the upper right of the repository for this course, which can be found [here](https://github.com/ramonprz01/people-analytics). See below.
+Download the repo using the big green button on the upper right of the repository for this course, which can be found [here](https://github.com/ramonpzg/people-analytics). See below.
 
 ![green button](images/repo.png)
